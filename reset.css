@@ -1,0 +1,18 @@
+/* reset.css */
+/* Reset all default styles */
+body, h1, h2, h3, h4, h5, h6, p, ul, li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+img {
+    max-width: 100%;
+}
+
+/* Add more reset styles if needed */
